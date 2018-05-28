@@ -162,7 +162,7 @@ CC16_337_2,Deficit- cut domestic spending,maybe,rank from 1-3 (against other two
 internetwork,internet access at work or school,maybe,
 CC16_337_1,Deficit - cut defense spending,maybe,rank from 1-3
 CC16_337_3,Deficit - raise taxes,maybe,
-CC16_364c,pres preference,yes,depends on post or pre
+CC16_364c,pres preference,no,depends on post or pre
 HouseCand1Name,,no,
 HouseCand1Party,,no,
 CC16_367,house pref,maybe,"options are housecand1, housecand2, not sure. Need to do cleaning to convert to party"
