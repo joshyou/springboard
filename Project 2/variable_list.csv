@@ -53,9 +53,9 @@ CC16_331_7,Identify and deport illegal immigrants yes/no,yes,
 CC16_331_9,immigration - none of the above,no,"part of a multiple choice question, some weren't asked to everyone for some reason"
 employ,employment status,yes,"categories include full-time, student, retired, homemaker, unemployed"
 milstat_1,military status - I am serving,yes,binarize into (I am serving or have served)?
-milstat_2,family serving,,
-milstat_3,I have served previously,,
-milstat_4,family served previously,,
+milstat_2,family serving,yes,
+milstat_3,I have served previously,yes,
+milstat_4,family served previously,yes,
 milstat_5,none,,
 healthins_1,have health insurance,probably not,
 healthins_2,health ins through govt,no,
